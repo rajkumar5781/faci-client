@@ -1,0 +1,15 @@
+{
+  "api": {
+    "error": {
+      "checklist": "Error Occured while fetching checklists",
+      "category": "Error Occured while fetching checklist categories",
+      "meta": "Error Occured while fetching Work permit checklist module meta",
+      "update": "Error Occurred while updating checklist"
+    }
+  },
+  "emptyState": {
+    "message": {
+      "checkList": "No Checklist available."
+    }
+  }
+}

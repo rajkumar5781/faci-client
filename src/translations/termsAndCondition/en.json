@@ -1,0 +1,18 @@
+{
+  "tAndC": {
+    "empty": {
+      "title": "No Data Available",
+      "desc": "Currently no description have been added"
+    },
+    "delete": {
+      "title": "Delete Terms And Conditions",
+      "confirmation": "Are you sure you want to delete this record?",
+      "deleteTxt": "Delete",
+      "cancelTxt": "Cancel",
+      "success": "Deleted Successfully"
+    },
+    "publish": {
+      "success": "Record Published Successfully"
+    }
+  }
+}

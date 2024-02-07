@@ -1,0 +1,13 @@
+import { pageTypes } from '@facilio/router'
+const { SURVEY_LIST } = pageTypes
+const moduleName = 'surveyResponse'
+export default [
+  {
+    pageType: SURVEY_LIST,
+    moduleName,
+    props: () => {
+      return { moduleName }
+    },
+    component: () => import('./SurveyResponseList.vue'),
+  },
+]

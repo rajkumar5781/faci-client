@@ -1,0 +1,14 @@
+{
+  "client": {
+    "emptyState": {
+      "search": {
+        "client_contact": "No Client Contacts Found",
+        "site": "No Sites Found"
+      },
+      "not_associated": {
+        "client_contact": "No Client Contacts Associated",
+        "site": "No Sites Associated"
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+ <script type="text/javascript">
+    window.brandConfig = {{brandConfig}};
+    window.webpackPublicPath = "{{webpackPublicPath}}";
+    window.dataDogClientId = "{{dataDogClientId}}";
+    window.identityServerURL = "{{identityServerURL}}";
+    window.isGoogleAnalytics = {{isGoogleAnalytics}};
+    window.__static__url__ = "{{staticURL}}";
+    window.addOrgDomainInRootPath = {{addOrgDomainInRootPath}};
+    window.__setStaticUrl = function(fileName){
+        return `${window.__static__url__}/${fileName}`
+    }
+    let headers = {{requestHeaders}};
+
+    if(headers){
+    window['fc-headers'] = headers
+    }
+</script>

@@ -1,0 +1,17 @@
+{
+  "invoice": {
+    "invoice_cancel_info": "Invoice has been Cancelled and no action can be performed.",
+    "error_summary_fetch": "Error Occurred while fetching record detail summary",
+    "reviseInvoice": "Revise Invoice",
+    "reviseInvoice_description": "If you choose to proceed, the invoice will undergo revision,resulting in the creation of a new record. The previous record will move to a revised state. This action is irreversible.",
+    "cancelInvoice": "Cancel Invoice",
+    "cancelInvoice_description": "If you choose to proceed, the invoice will be canceled and no more actions can be made to that Invoice. This action is irreversible.",
+    "update_success": "Invoice updated successfully",
+    "cancel": "Cancel",
+    "proceed": "Proceed",
+    "abort": "Abort",
+    "invoice_conversion_error": "Invoice can not be Converted.",
+    "empty_version_history": "It seems that there are no Invoice history",
+    "no_version_history": "No Invoice History"
+  }
+}

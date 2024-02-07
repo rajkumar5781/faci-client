@@ -1,0 +1,86 @@
+{
+  "asset": {
+    "no_operating_hours": "Operating Hours is not associated",
+    "no_operating_hours_desc": "There is no specific Operating hours associated. Click here to assign Operating Hours.",
+    "pm": {
+      "upcoming": "Upcoming",
+      "open": "Open",
+      "closed": "Closed",
+      "upcoming_title": "No Upcoming Planned Workorders available",
+      "closed_title": "No Closed Planned Workorders available",
+      "open_title": "No Open Planned Workorders available",
+      "open_desc": "There are no Open Planned Workorders scheduled!",
+      "closed_desc": "There are no Closed Planned Workorders scheduled!",
+      "upcoming_desc": "There are no upcoming Planned Workorders scheduled!"
+    },
+    "reactive": {
+      "open": "Open",
+      "closed_title": "No Closed Workorders available",
+      "open_title": "No Open Workorders available",
+      "closed": "Closed",
+      "open_desc": "There are no open Workorders available. Click here to raise a new Ticket!",
+      "closed_desc": "No Workorders have been closed so far!",
+      "new_workorder": "New Workorder"
+    },
+    "readings": {
+      "add": "Add",
+      "connected": "Connected",
+      "logged": "Logged",
+      "available": "Available",
+      "kpis": "KPI",
+      "set": "Set",
+      "analyse": "Analyse",
+      "emptyState": "No readings available"
+    },
+    "commands": {
+      "readings": "Readings",
+      "logs": "Logs",
+      "execute_mode_automatic": "Automatic"
+    },
+    "oph": {
+      "validation": {
+        "name": "Please enter name",
+        "count": "please specify 5 operating days",
+        "diff_time": "Please provide a valid time range for each chosen operating day",
+        "same_time": "Please provide a valid time range"
+      }
+    },
+    "performance": {
+      "downtime_year_period": "This year",
+      "report_downtime": "Report Downtime"
+    },
+    "site": {
+      "add_operating_hour": "Add Operating hour"
+    },
+    "range": {
+      "THIS_YEAR": "This Year"
+    },
+    "name": "Name",
+    "enter_depreciation_name": "Enter depreciation name",
+    "depreciation_type": "Depreciation Type",
+    "select_depreciation_type": "Select depreciation type",
+    "period_type": "Period type",
+    "period": "Period",
+    "enter_period": "Enter period",
+    "start_date_field": "Start date field",
+    "select_start_date": "select start date",
+    "depreciation_schedule_created": "Depreciation schedule created",
+    "depreciation_schedule_updated": "Depreciation schedule updated",
+    "add_new": "Add New",
+    "preview": "Preview",
+    "depreciation_scheduled": "Depreciation Schedule applied for this Asset",
+    "run_status": "Run Status",
+    "enter_reading": "Enter Reading",
+    "no_data_for_graph": "No data Available for graph.",
+    "MTBF": "MTBF",
+    "MTTR": "MTTR",
+    "no_hazard": "No Hazards found.",
+    "add_hazard": "Add Hazard",
+    "report_downtime": "Report Downtime",
+    "downtime_message": "Downtime Message",
+    "time": "Time",
+    "assign_operating_hour": "Assign Operating Hours",
+    "pm_warning_msg": "To proceed, kindly exclude the asset from the below Planned Maintenance records.",
+    "inspection_warning_msg": "To proceed, kindly exclude the asset from the below Inspection Template records."
+  }
+}

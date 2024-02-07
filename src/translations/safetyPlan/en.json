@@ -1,0 +1,26 @@
+{
+  "safetyPlan": {
+    "precautions": {
+      "error": "Error Occured",
+      "added": "Record Added Successfully",
+      "all": "All Hazards",
+      "emptyState": {
+        "title": "No Precautions available",
+        "desc": "At present, there's no need for any precautionary methods."
+      }
+    },
+    "emptyState": {
+      "title": "No Hazards added",
+      "desc": "There seems to be no recorded hazards."
+    },
+    "dialog": {
+      "hazard": {
+        "delete": {
+          "title": "Delete Hazard",
+          "desc": "Are you sure you want to delete associated Hazard?"
+        }
+      }
+    },
+    "add_hazard": "Add Hazard"
+  }
+}

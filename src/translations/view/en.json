@@ -1,0 +1,10 @@
+{
+  "view": {
+    "no_color_customize": "No Color Customization Available",
+    "default": "Default",
+    "unschedule_list": "Unschedule List",
+    "unscheduled": "Unscheduled",
+    "no_views": "No views found",
+    "fetch_grp_error": "Failed to fetch group events"
+  }
+}

@@ -1,0 +1,28 @@
+version: 0.2
+
+env:
+  exported-variables:
+    - CODEBUILD_BUILD_ARN
+    - CODEBUILD_BUILD_ID
+    - CODEBUILD_BUILD_NUMBER
+
+phases:
+  install:
+    runtime-versions:
+      nodejs: 16
+    commands:
+      - npm --version && node --version
+      - npm install -g npm-cli-login
+      - npm-cli-login login -u $USERNAME -p $PASSWORD -e admin@example.org -r https://repo.facilio.in/repository/npm-group
+      - npm ci 
+  build:
+    commands:
+      - echo Build started on `date`
+      - npm run build
+      - mv dist v$CODEBUILD_BUILD_NUMBER
+  post_build:
+    commands:
+      - echo Build completed on `date`
+artifacts:
+  files:
+    - v$CODEBUILD_BUILD_NUMBER/**/*

@@ -1,0 +1,33 @@
+{
+  "approval_summary": {
+    "no_record": "No records found"
+  },
+  "approvals": {
+    "approve": "Approve",
+    "reject": "Reject",
+    "could_not_update_record": "Could not update record",
+    "no_data": "No list available",
+    "could_not_load_approvals": "Could not load approval requests",
+    "error_occured": "Error Occured",
+    "cannot_fetch_view_details": "Cannot fetch view details"
+  },
+  "approval_activities": {
+    "open_summary": "Open Summary",
+    "no_history_available": "No History Available",
+    "approver": "Approver",
+    "status": "Status",
+    "modified_time": "Modified Time",
+    "time": "Time",
+    "user": "User",
+    "actions": "Actions",
+    "approvalprocess": "Approvalprocess",
+    "name": "Name",
+    "no_approvals": "No Approvals.",
+    "everyone_should_approve": "Everyone Should Approve",
+    "anyone_can_approve": "Anyone Can Approve"
+  },
+  "approval_fields": {
+    "go_to_summary": "Go to summary",
+    "cannot_fetch_record": "Could not fetch record details"
+  }
+}

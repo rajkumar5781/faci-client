@@ -1,0 +1,61 @@
+{
+  "fields": {
+    "classificationType": "Classification Type",
+    "requestDetails": "Request Details",
+    "requester": "Requester",
+    "priority": "Urgency",
+    "assignedTo": "Assigned To",
+    "dueDate": "Due Date"
+  },
+  "error": {
+    "403": "Error - Unsupported Tags while Reply",
+    "service_request_no_data": "No Service Request Available",
+    "delete_service_request": "Delete Service Request",
+    "delete_service_request_confirmation": "Are you sure you want to delete this Service Request?",
+    "service_request_delete_success": "Service Request Deleted Successfully",
+    "edit_service_request": "Edit Service Request",
+    "error_occured_from_address_list": "Error Occured while fetching From address list",
+    "invalid_email": "Invalid Email"
+  },
+  "service_request": {
+    "all": "All",
+    "description": "Description",
+    "no_conversation_found": "No conversation found",
+    "comment": "Comment",
+    "reply": "Reply",
+    "private_note": "Private Note",
+    "public_note": "Public Note",
+    "from": "From : ",
+    "add_cc_bcc": "Add CC / BCC",
+    "add_button_text": "Add {btn_name}",
+    "cc": "Cc : ",
+    "bcc": "Bcc : ",
+    "cancel": "Cancel",
+    "only_comment": "Only Comment",
+    "only_thread": "Only Thread",
+    "to": "To : ",
+    "notify_to": "Notify To",
+    "date": "Date",
+    "filter_by": "Filter By",
+    "reply_all": "Reply All",
+    "uploading_file": "Uploading File...",
+    "attach_file_content": "Attach files < 10MB",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone Number",
+    "uploading": "Uploading",
+    "assign": "Assign",
+    "error_occur_while_assigning": "Error Occur while assigning",
+    "service_request_assigned_successfully": "Service Request assigned successfully",
+    "no_location_specified_for_this_service_request": "No location specified",
+    "map": "Map"
+  },
+  "conversation": {
+    "from": "From",
+    "to": "To",
+    "notify_to": "Notify To",
+    "date": "Date",
+    "bcc": "Bcc",
+    "cc": "Cc"
+  }
+}

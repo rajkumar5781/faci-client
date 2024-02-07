@@ -1,0 +1,29 @@
+{
+  "cannot_fetch_view": "Cannot fetch view details",
+  "save_text": "Yes",
+  "cancel_text": "no",
+  "deleted_successfully": "Deleted Successfully",
+  "invite_code_form": {
+    "title": "Enter Invite Code",
+    "code_verification": "Verifying the invite code",
+    "enter_invite_code": "Enter the Invite Code sent with your visit invitation."
+  },
+  "visitor_type_form": {
+    "title": "Choose Visitor Type",
+    "invite_code": "Have an Invite code?"
+  },
+  "watch_list": {
+    "title": "WatchList"
+  },
+  "groupinvite": {
+    "delete": "Delete Group Invite",
+    "delete_description": "Are you sure you want to delete this Group Invite?",
+    "no_of_checked_in": "No.of Checked-In Invites",
+    "total_invites": "Total Invites"
+  },
+  "visitor_module": {
+    "delete_text": "Delete Visitor",
+    "delete_description": "Are you sure you want to delete this Visitor?",
+    "empty_state": "'No Visits Available'"
+  }
+}

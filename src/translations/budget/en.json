@@ -1,0 +1,24 @@
+{
+  "budget": {
+    "income": "Income",
+    "expense": "Expense",
+    "chartOfAccounts": "Chart of Accounts",
+    "budget": "Budget",
+    "actuals": "Actuals",
+    "totalBudget": "Total Budget",
+    "totalActuals": "Total Actuals",
+    "total": "Total",
+    "netIncome": "Net Budget Income",
+    "netActualIncome": "Net Actual Income",
+    "monthlyBudget": "Monthly Budget",
+    "yearlyBudget": "Yearly Budget",
+    "transactions": "Transactions"
+  },
+  "chartOfAccount": {
+    "name": "Name",
+    "description": "Description",
+    "code": "Code",
+    "type": "Type",
+    "chartOfAccount": "Chart Of Account"
+  }
+}

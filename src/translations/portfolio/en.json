@@ -1,0 +1,111 @@
+{
+  "portfolio": {
+    "buttons": {
+      "new_sub_space": "Add Sub Space",
+      "new_building": "Add Building",
+      "new_site": "New Site",
+      "new_floor": "Add Floor",
+      "new_space": "Add Space",
+      "download_qr": "Download QR",
+      "add_photo": "Add Photo",
+      "floor_plan": "Manage floor plan",
+      "edit": "Edit",
+      "add_meter_relationship": "Add Meter Relationship"
+    },
+    "delete": {
+      "error": "Error",
+      "space_delete_error": "Please remove the following dependencies underlying for the {moduleName}",
+      "space_delete_warning": "Following dependent records will be deleted along this {moduleName}",
+      "warning": "Warning",
+      "dependency": "Dependency",
+      "count": "Count"
+    },
+    "banner": {
+      "title": "Portfolio Management",
+      "description": "Seamlessly manage your Organization’s Portfolio, including Sites, Buildings, Floors and Spaces with ease"
+    },
+    "form": {
+      "error": "Unable to fetch module form templates"
+    },
+    "api": {
+      "error": "Error Occured"
+    },
+    "dialog": {
+      "warning_site": "Are you sure you want to delete this site?",
+      "warning_space": "Are you sure you want to delete this space?",
+      "warning_building": "Are you sure you want to delete this building?",
+      "warning_floor": "Are you sure you want to delete this floor?"
+    },
+    "weather_card": {
+      "no_data": "No Weather station assciated",
+      "no_data_caption": "Associate a Weather station in the Relationships tab for precise weather insights."
+    },
+    "weather_chart": {
+      "no_data": "No Weather Insights available",
+      "no_data_caption": "Associate a Weather station in the Relationships tab for precise weather insights."
+    },
+    "space_list": {
+      "no_building_data": "No Buildings associated",
+      "no_building_data_caption": "There seems to be no Buildings associated. Click here to add a Building.",
+      "no_space_data": "No Spaces associated",
+      "no_space_data_caption": "There seems to be no Spaces associated. Click here to add a Space.",
+      "no_floor_data": "No Floors associated",
+      "no_floor_data_caption": "There seems to be no Floors associated. Click here to add a Floor.",
+
+      "no_search_building_data": "No Buildings Found",
+      "no_search_building_data_caption": "There seems to be no Buildings Found for the search context.",
+      "no_search_space_data": "No Spaces Found",
+      "no_search_space_data_caption": "There seems to be no Spaces Found for the search context.",
+      "no_search_floor_data": "No Floors Found",
+      "no_search_floor_data_caption": "There seems to be no Floors Found for the search context."
+    },
+    "list": {
+      "add_building": "Add Building",
+      "add_space": "Add Space",
+      "add_floor": "Add Floor",
+      "add_subspace": "Add Sub space"
+    },
+    "ppm": {
+      "no_data": {
+        "pm": "No Upcoming Planned Workorders available",
+        "open": "No Open Planned Workorders available",
+        "closed": "No Closed Planned Workorders available"
+      },
+      "no_data_desc": {
+        "pm": "There are no upcoming Planned Workorders scheduled !",
+        "closed": "There are no closed Planned Workorders scheduled !",
+        "open": "There are no open Planned Workorders scheduled !"
+      }
+    },
+    "reactiveMaintenance": {
+      "no_data": {
+        "open": "No Open Workorders available",
+        "closed": "No Closed Planned Workorders available"
+      },
+      "desc": {
+        "open": "There are no open Workorders available. Click here to raise a new Ticket!",
+        "closed": "No Workorders have been closed so far !"
+      }
+    },
+    "location": {
+      "no_location": "No Location available",
+      "site": "Enhance location navigation by mapping your site's location in the form",
+      "floor": "Enhance location navigation by mapping your floor's location in the form",
+      "space": "Enhance location navigation by mapping your space's location in the form",
+      "building": "Enhance location navigation by mapping your building's location in the form"
+    },
+    "insights": {
+      "buildings": "Buildings",
+      "independent_spaces": "Independent Spaces",
+      "spaces": "Spaces",
+      "assets": "Assets",
+      "floors": "Floors",
+      "sub_spaces": "Sub Spaces",
+      "meters": "Meters",
+      "error": "Error Occured while fetching insights"
+    },
+    "cluster": {
+      "no_data": "No Results Found"
+    }
+  }
+}

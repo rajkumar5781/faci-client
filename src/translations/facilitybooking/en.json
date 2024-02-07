@@ -1,0 +1,53 @@
+{
+  "facility": {
+    "slot_info": {
+      "slot_duration": "Slot Duration",
+      "max_slot_booking_allowed": "Max Slot Booking Allowed",
+      "parallel_booking": "Parallel Booking",
+      "advance_booking_days": "Advance Booking Days",
+      "attendee_list": "Attendee List",
+      "chargeable": "Chargeable",
+      "allowed": "Allowed",
+      "not_allowed": "Not Allowed",
+      "before": "Before",
+      "after": "After",
+      "yes": "Yes",
+      "no": "No",
+      "no_slot_information_available": "No Slot Information Available",
+      "advance_booking_days_with_value": "Before {day} day(s)"
+    },
+    "special_availability": {
+      "add_special_avaialbility": "Add Special Availability",
+      "special_availabilities": "Special Availabilities",
+      "special_availability": "Special Availability",
+      "type": "Type",
+      "remarks": "Remarks",
+      "date": "Date",
+      "startTime": "Start Time",
+      "endTime": "End Time",
+      "cost": "Cost",
+      "cancel_booking_for_cost_change": "Cancel Booking For Cost Change",
+      "first_info": "1. Please be noted that Special Availability will change the existing working hours to the selected working hours. Any bookings outside the new working hours will be cancelled.",
+      "second_info": "2. In the case of Special Unavailability, any bookings within the Special Unavailability will be cancelled.",
+      "no_special_availabilities": "No Special Availabilities",
+      "success_msg": "Special Availability Added successfully!"
+    },
+    "booking": {
+      "booking_date": "Booking Date :",
+      "attendees": "Attendees :",
+      "members": "Member(s)",
+      "no_slots_booked": "No Slots Booked",
+      "no_internal_attendees_registered": "No Internal Attendees registered",
+      "no_external_attendees_registered": "No External Attendees registered",
+      "error_loading_external_attendee_list": "Error loading external attendee list",
+      "error_occured_while_cancelling": "Error Occurred while cancelling"
+    }
+  },
+  "amenity": {
+    "catagory": "Catagory",
+    "description": "Description",
+    "name": "Name",
+    "amenity_logo": "Amenity",
+    "no_amenity_available": "No Amenities available"
+  }
+}

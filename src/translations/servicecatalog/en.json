@@ -1,0 +1,19 @@
+{
+  "catalog": {
+    "service_catalog": "Service Catalog",
+    "request": "Request",
+    "description": "Organization's services, aiding in effective communication and delivery",
+    "search_catalog": "Search Catalog",
+    "add_form": "Add Form",
+    "search_here": "Search here",
+    "type": "Type",
+    "catagory": "Catagory",
+    "form": "Form",
+    "catalog_description": "Description",
+    "submit_request": "Submit Request",
+    "record_created_successfully": "Record Created Successfully!",
+    "search_results_not_found": "Search Results Not Found",
+    "empty_msg": "We couldn't find any results matching your search criteria. Please try again with different keywords or refine your search to find what you're looking for.",
+    "no_service_catalog_available": "No Service Catalog available"
+  }
+}

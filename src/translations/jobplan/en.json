@@ -1,0 +1,7 @@
+{
+  "publish_jp_confirm": "Once this Job Plan is published, changes cannot be made to it.Do you still want to publish?",
+  "jp_disable_confirm": "Once this Job Plan is disabled, all current records associated with this Job Plan will not be affected. No new associations can be made to this Job Plan.Do you still want to disable?",
+  "jp_published": "Job Plan Published.",
+  "jp_before_publish_description": "Job Plan Should be published before it can be associated.",
+  "jp_disabled_description": "Job Plan has been disabled and can no longer be associated."
+}

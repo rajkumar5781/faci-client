@@ -1,0 +1,213 @@
+{
+  "error_occurred": "We're sorry, but an unknown error has occurred. Please try again later or contact support for further assistance.",
+  "error_occurred_short_message": "Error Occurred",
+  "was": "was",
+  "from": "from",
+  "of": "of",
+  "save": "Save",
+  "cancel": "Cancel",
+  "delete": "Delete",
+  "please": "Please",
+  "resend": "Resend",
+  "edit": "Edit",
+  "email_notification": "Email Notification",
+  "no_record": "No Record Found",
+  "no_data": "No data",
+  "records": "Records",
+  "no_records": "No records",
+  "record": "Record",
+  "results": "Results",
+  "run": "Run",
+  "update": "Update",
+  "app_layout": {
+    "expand": "Expand",
+    "collapse": "Collapse",
+    "logout": "Logout"
+  },
+  "previous": "Previous",
+  "select": "Select",
+  "next": "Next",
+  "error": "Error Occured",
+  "field": "Field",
+  "value": "Value",
+  "summary": {
+    "rejected": "rejected",
+    "for_this": "for this",
+    "is_pending": "is pending",
+    "view_more": "View More",
+    "page_empty_title": "Page is not configured for this module",
+    "page_empty_desc": "Please contact your administrator",
+    "page_api_fail": "We were not able to show the required info, please retry later !!",
+    "loading": "Loading",
+    "widgets": {
+      "widget_not_available": "Widget not available",
+      "timelog": {
+        "log_empty": "No Logs available"
+      },
+      "bulkwidget": {
+        "no_relation": "Relationship is not configured",
+        "no_related": "Related list is not configured",
+        "no_meters": "Meter Relationships not associated",
+        "associate": "Associate"
+      },
+      "clients": {
+        "add_client_contact": "Add Contact",
+        "cite_associated": "Site Associated successfully!",
+        "site_dissociated": "Site Dissociated successfully!",
+        "associate_site": "Associate Site"
+      }
+    }
+  },
+  "list": {
+    "add_view": "Add View",
+    "no_view_configured": "No View Configured",
+    "column_search": "Column Search"
+  },
+  "custommodules": {
+    "list": {
+      "custom_modules": "Custom Modules",
+      "connected_apps": "Connected Apps",
+      "state_flows": "State Flow",
+      "fields": "fields",
+      "enabled": "Enabled",
+      "disabled": "Disabled",
+      "created_date": "Created Date",
+      "created_by": "Created By",
+      "description": "Description",
+      "filtered_view": "Filtered View",
+      "delete_error": "Error Occurred while deleting",
+      "delete_success": "Deleted Successfully",
+      "delete": "Delete",
+      "delete_confirmation": "Are you sure you want to delete this",
+      "new": "New",
+      "no": "No",
+      "available": "Available",
+      "unable_to_fetch_custom_btn": "Unable to fetch custom buttons",
+      "unable_to_fetch_count": "Unable to fetch total count",
+      "list_error": "Error occurred while fetching record list",
+      "changes_saved": "Changes saved succesfully",
+      "resize_width": "column width resized",
+      "update_alignment": "column alignment updated",
+      "save_changes": "Save Changes",
+      "discard": "Discard",
+      "made_changes": "You made {value} changes in the table",
+      "details": "Details",
+      "additional_details": "Additional Details"
+    },
+    "summary": {
+      "record_summary_error": "Error occurred while fetching record detail summary",
+      "relation_dissociate_success": "Relationship dissociated succesfully",
+      "relation_add_success": "Relationship added successfully"
+    },
+    "custom_buttons": {
+      "record_created": "Record created succesfully",
+      "action_executed": "Action executed successfully",
+      "record_updated": "Record updated succesfully",
+      "no_buttons_configured": "No Buttons configured",
+      "secondary_actions": "Secondary actions",
+      "primary_actions": "Primary Actions"
+    }
+  },
+  "criteria": "Criteria",
+  "comments": {
+    "sharing": {
+      "private": "Private",
+      "public": "Public"
+    },
+    "cancel": "Cancel",
+    "mention_people": "Mention People",
+    "mention_record": "Mention Record",
+    "attach_files": "Attach Files",
+    "markdowns": "Markdowns",
+    "add_a_reply": "Add a reply",
+    "delete_confirm": {
+      "title": "Delete comment",
+      "description": "Are you sure you want to delete this comment?"
+    },
+    "enter_comment": "Enter Comment",
+    "markdown": {
+      "title": "MARKDOWNS",
+      "text": "Markdowns",
+      "bold": "Bold",
+      "h1": "H1",
+      "h2": "H2",
+      "italics": "Italics",
+      "strike": "Strike",
+      "underline": "Underline",
+      "quote": "Quote",
+      "blockquote": "BlockQuote",
+      "hyperlink": "Hyper Link",
+      "highlight": "Highlight",
+      "hr": "Horizontal Line",
+      "hithere": "Hi There",
+      "element": "Element",
+      "output": "Output",
+      "syntax": "Syntax",
+      "url": "URL",
+      "url_": "Url",
+      "list": "List",
+      "strikesyntax": "~~",
+      "highlightsyntax": "`",
+      "image": "Image"
+    }
+  },
+  "setup": {
+    "associate_classification": "Associate classification",
+    "empty_state_association": "No Classifications Associated",
+    "remove_classification": "Remove classification",
+    "edit_attribute": "Edit Attribute",
+    "classification": "Classification",
+    "no_classifications_avaliable": "No classifications avaliable"
+  },
+  "field_names": {
+    "name": "Name",
+    "description": "Description",
+    "client": "Client",
+    "attachments": "Attachments"
+  },
+  "date_time": {
+    "days": "Days",
+    "hours": "Hours",
+    "minutes": "Minutes",
+    "seconds": "Seconds",
+    "time": "Time"
+  },
+  "actions": {
+    "add": "Add",
+    "close": "Close",
+    "edit_configuration": "Edit Configuration",
+    "enter": "Enter",
+    "please_enter": "Please Enter",
+    "select": "Select",
+    "please_select": "Please Select",
+    "configure": "Configure",
+    "select_field": "Select Field",
+    "add_field": "Add Field",
+    "select_time": "Select Time",
+    "select_all": "Select All"
+  },
+  "notification": {
+    "title": "Notifications",
+    "no_notification": "No notifications at the moment",
+    "show_all": "Show All",
+    "description": "There are currently no notifications to display. Stay updated for future notifications.",
+    "go_to_summary": "Go to Summary"
+  },
+  "column_customization": {
+    "title": "Column settings",
+    "no_fields": "No Fields Found",
+    "search": "Search Columns",
+    "frozen": "Frozen",
+    "edit_name": "Change your column name",
+    "flexible": "Flexible",
+    "cancel": "Cancel",
+    "save": "Save",
+    "success_message": "View Updated Successfully",
+    "error_message": "Error occured while fetching viewFields"
+  },
+  "inventory": {
+    "serving_sites_empty_msg": "No Sites Associated"
+  },
+  "search_here": "Search here",
+  "all": "All"
+}

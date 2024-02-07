@@ -1,0 +1,9 @@
+{
+  "survey": {
+    "fields": {
+      "survey_respondent": "Survey Respondent",
+      "response_date": "Response Date",
+      "survey_response": "Survey Response"
+    }
+  }
+}

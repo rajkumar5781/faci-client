@@ -1,0 +1,103 @@
+.comment-body-style .ProseMirror {
+  outline: none;
+  padding: var(--spacing-containerMedium);
+}
+.comment-body-style .ProseMirror .is-editor-empty:first-child:before {
+  content: attr(data-placeholder);
+  color: var(--colors-textCaption);
+  position: absolute;
+}
+.comment-body-style h1 {
+  position: relative;
+  font-size: 20px;
+  font-weight: 500;
+  padding: 0;
+  margin: 0;
+}
+.comment-body-style h2 {
+  position: relative;
+  padding: 0;
+  margin: 0;
+  font-size: 16px;
+  font-weight: 500;
+}
+.comment-body-style h3 {
+  position: relative;
+  padding: 0;
+  margin: 0;
+  font-weight: 400;
+  font-size: 14px;
+}
+.comment-body-style h4 {
+  position: relative;
+  padding: 0;
+  margin: 0;
+  font-weight: 400;
+  font-size: 12px;
+}
+.comment-body-style h5 {
+  position: relative;
+  padding: 0;
+  margin: 0;
+  font-weight: 400;
+  font-size: 10px;
+}
+.comment-body-style p {
+  position: relative;
+  padding: 0;
+  margin: 0;
+  font-size: 14px;
+  line-height: 130%;
+}
+.comment-body-style p:not(:first-child) {
+  margin-top: 0.75rem;
+}
+.comment-body-style a:hover {
+  text-decoration: underline;
+}
+.comment-body-style blockquote {
+  border-left: 2px solid var(--colors-borderAccentCyanMedium);
+  background-color: var(--colors-backgroundAccentCyanSubtle);
+  padding: var(--spacing-containerLarge);
+  margin: var(--spacing-containerLarge) 0;
+}
+.comment-body-style blockquote p {
+  position: relative;
+  padding: 0;
+  margin: 0;
+  font-size: 14px;
+  line-height: 130%;
+}
+.comment-body-style code {
+  background-color: var(--colors-backgroundAccentYellowLight);
+}
+.comment-body-style ul,
+.comment-body-style ol {
+  padding-left: var(--spacing-sectionSmall);
+  margin: 0;
+}
+.comment-body-style img {
+  height: 100%;
+  width: 100%;
+  max-height: 100px;
+  max-width: 100px;
+}
+.comment-mentions-popover {
+  max-width: 350px;
+  overflow: scroll;
+  max-height: 300px;
+  background: var(--colors-backgroundContainer);
+  border-radius: var(--border-medium);
+  box-shadow: var(--elevation-lightMed);
+}
+.comment-body-style .comment-mentions-people,
+.comment-body-style .comment-mentions-record {
+  color: var(--colors-borderPrimaryDefault);
+}
+.comment-body-style .comment-mentions-record:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+.comment-reply-thread {
+  border-left: 0.12rem solid var(--colors-borderNeutralBaseSubtle);
+}
